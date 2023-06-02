@@ -23,19 +23,19 @@
   margin: 0 auto;
 }
 
-.saidebar-left {
+.sidebar-left {
   width: 230px;
   height: 1400px;
   background-color: palegreen;
 }
 
 .blog {
-  width : 500px;
+  width: 500px;
   height: 1400px;
   background-color: limegreen;
 }
 
-.saidebar-right {
+.sidebar-right {
   width: 230px;
   height: 1400px;
   background-color: palegreen;
